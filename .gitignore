@@ -1,0 +1,10 @@
+ghostridethedesktop.pro.user.*
+ghostridethedesktop.pro.user
+*.stash
+*.o
+*.autosave
+.DS_Store
+ghostridethedesktop/Makefile
+ghostridethedesktop/.DS_Store
+ghostridethedesktop/GhostRideTheDesktop.app/Contents/MacOS/GhostRideTheDesktop
+.nfs*
